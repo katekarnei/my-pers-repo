@@ -20,4 +20,8 @@ public class NewForgotPage {
      public void blabla(){
         //kskhfskdh
      }
+
+     public void newbranchMethod(){
+        //fkkgjdkfjgld
+     }
 }
