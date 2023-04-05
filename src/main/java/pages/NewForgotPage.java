@@ -13,6 +13,11 @@ public class NewForgotPage {
          return driver.findElement(statusText).getText();
     }
 
-    public void someFunc(){
+    public void someFunc() {
 //hgfjglkjhg
-    }
+     }
+
+     public void blabla(){
+        //kskhfskdh
+     }
+}
