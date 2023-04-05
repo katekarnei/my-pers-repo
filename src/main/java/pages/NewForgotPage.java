@@ -12,4 +12,8 @@ public class NewForgotPage {
     public String getStatusText(){
          return driver.findElement(statusText).getText();
     }
+
+    public void someFunc(){
+
+    }
 }
