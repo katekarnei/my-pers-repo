@@ -14,6 +14,5 @@ public class NewForgotPage {
     }
 
     public void someFunc(){
-//hgfjg
+//hgfjglkjhg
     }
-}
